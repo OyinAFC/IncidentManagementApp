@@ -1,0 +1,79 @@
+.bg-img-right {
+  background-image: url("../images/image\ 4.png");
+  opacity: 7;
+  mix-blend-mode: darken;
+  background-color: #f7ecea;
+}
+
+.submit {
+  background-color: #dda51a;
+}
+
+.bg-img-left {
+  background-color: whitesmoke;
+}
+
+.food_img {
+  width: 300px;
+  margin: auto;
+}
+
+.center-margin {
+  margin: 70px;
+  background-color: floralwhite;
+}
+
+.bg-orange {
+  background-color: #f7f3ea;
+}
+
+.center {
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+}
+
+.marginRight {
+  margin-right: 10px;
+}
+
+#form_input {
+  width: 100% !important;
+}
+
+.form-group {
+  width: 90%;
+}
+
+/* thead tr {
+  border-style: hidden;
+} */
+
+.leftCol {
+  min-height: 750px;
+}
+
+th {
+  font-weight: normal;
+}
+
+table thead {
+  background-color: #ddd;
+  padding: 10px;
+  width: 30px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+table td {
+  /* border: 1px solid #ddd; */
+  padding: 1px;
+  color: #083c41;
+  width: 30px;
+  overflow: hidden;
+  white-space: nowrap;
+  margin: 5px;
+}
+
+.modal-height {
+  height: 70%;
+}
